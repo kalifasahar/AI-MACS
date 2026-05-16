@@ -1,0 +1,92 @@
+[
+  {
+    "label": "plain",
+    "n_runs": 1,
+    "median_practical_bc": 0.0,
+    "median_emergence_bc": 0.0,
+    "median_I3_bc": -0.02788282325451341,
+    "median_G3_bc": 0.011153129301805453,
+    "wilcoxon_practical": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_emergence": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_I3": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_G3": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "frac_m1_significant": 0.0,
+    "frac_m2_significant": 0.0
+  },
+  {
+    "label": "persona",
+    "n_runs": 1,
+    "median_practical_bc": 0.011314205042825098,
+    "median_emergence_bc": -0.0038522200037707094,
+    "median_I3_bc": -0.013620448573708033,
+    "median_G3_bc": -0.007099929445084419,
+    "wilcoxon_practical": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_emergence": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_I3": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_G3": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "frac_m1_significant": 0.0,
+    "frac_m2_significant": 0.0
+  },
+  {
+    "label": "tom",
+    "n_runs": 1,
+    "median_practical_bc": 0.06296363998105936,
+    "median_emergence_bc": -0.009398838334527981,
+    "median_I3_bc": -0.021321812128510365,
+    "median_G3_bc": 0.003596896472165878,
+    "wilcoxon_practical": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_emergence": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_I3": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_G3": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "frac_m1_significant": 0.0,
+    "frac_m2_significant": 0.0
+  }
+]

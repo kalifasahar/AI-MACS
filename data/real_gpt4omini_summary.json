@@ -1,0 +1,92 @@
+[
+  {
+    "label": "plain",
+    "n_runs": 1,
+    "median_practical_bc": -0.13106524258582175,
+    "median_emergence_bc": -0.004018799958043592,
+    "median_I3_bc": 0.00522579697126524,
+    "median_G3_bc": -0.009275615195389664,
+    "wilcoxon_practical": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_emergence": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_I3": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_G3": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "frac_m1_significant": 0.0,
+    "frac_m2_significant": 0.0
+  },
+  {
+    "label": "persona",
+    "n_runs": 1,
+    "median_practical_bc": 0.14413252788578834,
+    "median_emergence_bc": -0.016520286092899357,
+    "median_I3_bc": -0.04379457449049007,
+    "median_G3_bc": 0.002247367453728777,
+    "wilcoxon_practical": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_emergence": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_I3": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "wilcoxon_G3": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 1
+    },
+    "frac_m1_significant": 0.0,
+    "frac_m2_significant": 0.0
+  },
+  {
+    "label": "tom",
+    "n_runs": 2,
+    "median_practical_bc": -0.051206752183343474,
+    "median_emergence_bc": 0.01585496687793705,
+    "median_I3_bc": -0.026660145210442077,
+    "median_G3_bc": -0.005020832287081445,
+    "wilcoxon_practical": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 2
+    },
+    "wilcoxon_emergence": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 2
+    },
+    "wilcoxon_I3": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 2
+    },
+    "wilcoxon_G3": {
+      "statistic": NaN,
+      "pvalue": NaN,
+      "n": 2
+    },
+    "frac_m1_significant": 0.0,
+    "frac_m2_significant": 0.0
+  }
+]

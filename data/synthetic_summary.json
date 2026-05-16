@@ -1,0 +1,92 @@
+[
+  {
+    "label": "plain",
+    "n_runs": 30,
+    "median_practical_bc": 0.10746233147991768,
+    "median_emergence_bc": 0.01784318662031078,
+    "median_I3_bc": -0.08187964547162035,
+    "median_G3_bc": 0.0019868977310564806,
+    "wilcoxon_practical": {
+      "statistic": 302.0,
+      "pvalue": 0.07897383719682693,
+      "n": 30
+    },
+    "wilcoxon_emergence": {
+      "statistic": 386.0,
+      "pvalue": 0.000134472914413348,
+      "n": 30
+    },
+    "wilcoxon_I3": {
+      "statistic": 53.0,
+      "pvalue": 0.9999647159129381,
+      "n": 30
+    },
+    "wilcoxon_G3": {
+      "statistic": 339.0,
+      "pvalue": 0.013870718888938427,
+      "n": 30
+    },
+    "frac_m1_significant": 0.0,
+    "frac_m2_significant": 0.2
+  },
+  {
+    "label": "persona",
+    "n_runs": 30,
+    "median_practical_bc": 0.010462270267500351,
+    "median_emergence_bc": 0.002728215258807497,
+    "median_I3_bc": -0.021750908429018,
+    "median_G3_bc": -0.0007679521447382931,
+    "wilcoxon_practical": {
+      "statistic": 204.0,
+      "pvalue": 0.4909163014680347,
+      "n": 30
+    },
+    "wilcoxon_emergence": {
+      "statistic": 265.0,
+      "pvalue": 0.07900026900480911,
+      "n": 30
+    },
+    "wilcoxon_I3": {
+      "statistic": 95.0,
+      "pvalue": 0.9930398543049486,
+      "n": 30
+    },
+    "wilcoxon_G3": {
+      "statistic": 228.0,
+      "pvalue": 0.28458117386586634,
+      "n": 30
+    },
+    "frac_m1_significant": 0.5,
+    "frac_m2_significant": 0.06666666666666667
+  },
+  {
+    "label": "tom",
+    "n_runs": 30,
+    "median_practical_bc": -1.0736804396343564,
+    "median_emergence_bc": -0.01296069656045664,
+    "median_I3_bc": 0.025752180898376498,
+    "median_G3_bc": -0.01350750070802298,
+    "wilcoxon_practical": {
+      "statistic": 40.0,
+      "pvalue": 0.9999380096006237,
+      "n": 30
+    },
+    "wilcoxon_emergence": {
+      "statistic": 124.0,
+      "pvalue": 0.963986107526779,
+      "n": 30
+    },
+    "wilcoxon_I3": {
+      "statistic": 302.0,
+      "pvalue": 0.012086421675697694,
+      "n": 30
+    },
+    "wilcoxon_G3": {
+      "statistic": 22.0,
+      "pvalue": 0.9999811897529157,
+      "n": 30
+    },
+    "frac_m1_significant": 0.6,
+    "frac_m2_significant": 0.0
+  }
+]

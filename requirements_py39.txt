@@ -1,0 +1,13 @@
+# Relaxed requirements for Python 3.9 compatibility.
+# Riedl's original requirements.txt pins numpy==2.2.6 and matplotlib==3.10.3
+# which require Python 3.10+. These ranges let pip pick versions that work on 3.9.
+
+openai>=1.97.0,<2.0
+numpy>=1.24,<2.0
+matplotlib>=3.7,<3.10
+pydantic>=2.0
+pydantic_core>=2.0
+httpx>=0.27
+python-dotenv>=1.0
+tqdm>=4.66
+typing_extensions>=4.10

@@ -501,7 +501,8 @@ class GameMaster:
     
     def _save_csv_summary(self):
         """Save game data in CSV format: one column per agent, one row per round"""
-        csv_file = os.path.join(self.results_dir, f"game_data - Target: {self.mystery_number} .csv")
+        # Use underscore instead of colon for Windows filename compatibility.
+        csv_file = os.path.join(self.results_dir, f"game_data_target_{self.mystery_number}.csv")
         
         # Prepare headers
         headers = ["round"] + [f"agent_{i+1}" for i in range(len(self.agents))]
